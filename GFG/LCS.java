@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class LCS {
    
     static int lcs(String s1, String s2) {
